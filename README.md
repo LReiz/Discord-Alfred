@@ -1,4 +1,4 @@
-# Discord-Alfred
+# Discord Alfred
 
 ## Descrição
 Bot no Discord para ser o mordomo do nosso servidor.
