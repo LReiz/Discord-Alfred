@@ -2,14 +2,7 @@
 // Firebase
 firebase = require('firebase')
 var firebaseConfig = {
-    apiKey: "AIzaSyBToSrp2fvhU3oqma7wDHWlZ11Nn2L3kPY",
-    authDomain: "discordalfred.firebaseapp.com",
-    databaseURL: "https://discordalfred.firebaseio.com",
-    projectId: "discordalfred",
-    storageBucket: "discordalfred.appspot.com",
-    messagingSenderId: "672906589427",
-    appId: "1:672906589427:web:77704a11aad41d15adf386",
-    measurementId: "G-4SPR9B58VV"
+    //      SETUP FIREBASE KEYS HERE
 };
 firebase.initializeApp(firebaseConfig);
 //   firebase.analytics();
